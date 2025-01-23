@@ -10,7 +10,7 @@ JavaPlayground is a collection of Java projects designed to explore and practice
 - Interactive **menu-based console application**.
 - Focus on **data structures** and **object-oriented programming**.
 
-## Project: Dziedziczenie i Enkapsulacja
+## Project: laboratorium1
 
 ### Key Features:
 - Implementation of **Person**, **Student**, **Employee**, and **University** classes.
